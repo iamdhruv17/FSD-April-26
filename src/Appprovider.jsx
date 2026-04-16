@@ -21,4 +21,5 @@ const Appprovider=({children})=>{
     </ThemeContext.Provider>
     )
 }
+
 export default Appprovider ;
