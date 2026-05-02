@@ -9,3 +9,4 @@ import { todoReducer } from './reducer';
 export const store =configureStore({
     reducer:{todoReducer}
 })
+
