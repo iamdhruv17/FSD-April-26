@@ -7,6 +7,6 @@ export default function Home(){
 
     <Link href="/about">Go to about page</Link>
 
-    </div>
+    </div>i
   );
 }
